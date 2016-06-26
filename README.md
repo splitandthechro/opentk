@@ -1,6 +1,8 @@
 OpenTK
 ======
 
+[![Join the chat at https://gitter.im/opentk/opentk](https://badges.gitter.im/opentk/opentk.svg)](https://gitter.im/opentk/opentk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Open Toolkit library is a fast, low-level C# binding for OpenGL, OpenGL ES and OpenAL. It runs on all major platforms and powers hundreds of apps, games and scientific research.
 
 Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your C# application. Integrate it into your existing user interface or use it standalone without any external dependencies.
@@ -99,7 +101,7 @@ Contributing
 For details on coding style and best practices, refer to https://github.com/opentk/opentk/wiki/Contributing
 
 Some areas we could really use your help:
-- Tutorials for OpenGL 3.x and 4.x. [Inspiration here](https://github.com/Groovounet/ogl-samples)
+- Tutorials for OpenGL 3.x and 4.x. [Inspiration here](https://github.com/g-truc/ogl-samples)
 - New platforms:
   - Native Client (NaCL)
   - Blackberry
